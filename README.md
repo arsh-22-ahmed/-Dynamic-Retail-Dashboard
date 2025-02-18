@@ -87,7 +87,8 @@ Contains details about sales representatives and their respective regions.
    3. Create a **Bar Chart** to visualize category-wise profit.
    4. Add slicers for interactivity (e.g., by region or year).
 
-![image](https://github.com/user-attachments/assets/e61cd74c-9983-4dd1-91a2-92b9aa349f0e)
+![image](https://github.com/user-attachments/assets/14db0e74-26df-4abe-8fa4-c4655c27e6e1)
+
 
 
 ---
