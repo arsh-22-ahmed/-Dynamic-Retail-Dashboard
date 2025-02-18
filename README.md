@@ -116,7 +116,8 @@ Contains details about sales representatives and their respective regions.
    3. Use conditional formatting or a **Heatmap** to highlight top-performing countries.
    4. Alternatively, use a **Geographic Map Chart** to visualize sales geographically.
 
-![image](https://github.com/user-attachments/assets/4cea0d13-3152-4690-8002-3ff01ee90290)
+![image](https://github.com/user-attachments/assets/72433194-91f0-40d4-9271-e7ed6c888cee)
+
 
 ---
 
