@@ -116,7 +116,8 @@ Contains details about sales representatives and their respective regions.
    3. Use conditional formatting or a **Heatmap** to highlight top-performing countries.
    4. Alternatively, use a **Geographic Map Chart** to visualize sales geographically.
 
-![image](https://github.com/user-attachments/assets/72433194-91f0-40d4-9271-e7ed6c888cee)
+![image](https://github.com/user-attachments/assets/8b2249a7-b071-48f6-b3b7-7a8b24711498)
+
 
 
 ---
@@ -158,7 +159,8 @@ Contains details about sales representatives and their respective regions.
    4. Use slicers to filter by category, region, or segment.
 
 
-![image](https://github.com/user-attachments/assets/18ea9f1d-9643-40e9-8514-f16982b781cb)
+![image](https://github.com/user-attachments/assets/3339b4ae-f3cc-4689-9901-c8a7a1175d8c)
+
 
 ---
 
@@ -192,4 +194,5 @@ This repository includes:
 - Visual examples for each solved problem statement.
 - Snapshots of the final dashboard with all components.
 
-![image](https://github.com/user-attachments/assets/76c278f7-54bb-4628-a427-41ca3a1cd5a0)
+![image](https://github.com/user-attachments/assets/53096cc5-466a-44dd-961c-979d621ca086)
+
