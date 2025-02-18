@@ -130,7 +130,8 @@ Contains details about sales representatives and their respective regions.
    3. Filter to display the top 5 Sub-Categories.
    4. Use a **Column Chart** to visualize results.
 
-![image](https://github.com/user-attachments/assets/547847e7-fdc7-419c-b14a-45991538c997)
+![image](https://github.com/user-attachments/assets/1f8018e8-d83a-49c7-8eb4-8b8909a82266)
+
 
 ---
 
@@ -142,7 +143,8 @@ Contains details about sales representatives and their respective regions.
    2. Filter to display the bottom 5 Sub-Categories.
    3. Use a **Column Chart** with contrasting colors to emphasize low-performing categories.
 
-![image](https://github.com/user-attachments/assets/0ab7f7f8-bc6f-4185-8071-602c9e8ce10c)
+![image](https://github.com/user-attachments/assets/a2137305-f342-43f1-9899-46cf0751ac8d)
+
 
 ---
 
