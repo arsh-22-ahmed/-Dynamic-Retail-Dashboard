@@ -72,7 +72,8 @@ Contains details about sales representatives and their respective regions.
    3. Create a **Line Chart** to display trends for Sales and Profit.
    4. Apply slicers to filter by category, market, or region dynamically.
 
-![image](https://github.com/user-attachments/assets/9651ba55-f8c0-4410-b0f3-78a10c09b91e)
+![image](https://github.com/user-attachments/assets/3b05c2ca-8cd1-4771-be0b-d89a5dde0b9e)
+
 
 
 ---
