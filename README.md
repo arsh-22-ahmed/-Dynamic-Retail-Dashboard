@@ -102,7 +102,8 @@ Contains details about sales representatives and their respective regions.
    3. Create a **Pie Chart** or **Donut Chart** to display the sales share.
    4. Add labels to show percentage values dynamically.
 
-![image](https://github.com/user-attachments/assets/b73031c9-8f81-4bcc-903c-270977d7891a)
+![image](https://github.com/user-attachments/assets/d3b4c812-931a-4a1d-98be-1ac6f91addb9)
+
 
 ---
 
